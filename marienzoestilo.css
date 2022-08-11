@@ -1,0 +1,148 @@
+/*cabeçalho*/
+
+#cabecalho {
+
+	background: orange;
+
+	text-align: center;
+	color: white;
+	
+	
+	width: 1400px;
+    height: 200px;
+}
+
+.marienzo {
+	color: black;
+}
+
+.imagem1 {
+
+	
+	
+	padding: 5px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.menu {
+
+	background: black;
+	width: 1400px;
+	height: 50px;
+	text-align: center;
+	
+}
+
+a {
+	color: white;
+	font: 16px Arial black, Helveti;
+	text-decoration: none;
+	text-align: center;
+	padding: 30px;
+	position: relative;
+	top: 15px;
+
+}
+
+.imagem2 {
+
+	
+	
+	
+	padding-top: 20px;
+	border: 5px solid orange;
+	position: relative;
+	left: 375px
+
+
+
+
+}
+
+.chamada {
+
+	text-align: center;
+	color: black;
+	padding-top: 5px;
+}
+
+.imagem3 {
+
+	text-align: center;
+	width: 1400px;
+	border: 5px groove black;
+}
+
+.imagem4 {
+
+	
+	border: 5px outset black;
+	
+	width: 580px;
+	height: 415px;
+	position: absolute;
+	top: 290px;
+	left: 700px
+
+
+
+
+}
+
+.reservados {
+
+	background: black;
+	color: white;
+	text-align: center;
+}
+
+.reservados2 {
+
+	background: black;
+	color: white;
+	text-align: center;
+	position: relative;
+	top: 450px;
+	width: 1400px;
+}
+
+#nossahistoria {
+
+	background: orange;
+	font: black;
+	border: 5px groove black;
+	width: 650px;
+	height: 400px;
+	padding-top: 15px;
+	text-align: justify;
+	position: absolute;
+	top: 290px;
+	
+
+}
+
+.titulo {
+
+	text-align: center;
+	color: white;
+}
+
+.titulo2 {
+
+	color: black;
+
+
+}
+
+.texto {
+
+	font: 18px Arial;
+	padding: 10px 10px;
+	line-height: 30px;
+}
+
+
+	
+
+
